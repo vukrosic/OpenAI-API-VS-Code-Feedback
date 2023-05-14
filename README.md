@@ -1,4 +1,4 @@
-# 📢 VS Code Extension - OpenAI API
+# 📢 VS Code Extension - Ultimate OpenAI API
 
 This is a VS Code extension for generating text using OpenAI's ChatGPT / GPT-3.5 / GPT-4 API. It provides a user interface for inputting messages and receiving responses from the API.  
 <br>
@@ -32,6 +32,6 @@ You can edit or delete messages by clicking the corresponding buttons next to ea
 ## ❗ Troubleshooting
 
 If you encounter any errors while using the extension, they will be displayed in the "Error" textarea at the bottom of the UI.
-To report an issue or provide feedback, please open an issue on the [GitHub repository](https://github.com/yourusername/yourpublicrepository/issues)  
+To report an issue or provide feedback, please open an issue on the [GitHub repository](https://github.com/vukrosic/OpenAI-API-VS-Code-Feedback)  
 
 My email is vukrosic1@gmail.com and my twitter is [@VukRosic99](https://twitter.com/VukRosic99)

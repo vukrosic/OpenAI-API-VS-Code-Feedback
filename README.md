@@ -6,7 +6,7 @@ Collecting feedback and bug reports for my OpenAI API VS Code extension.
 This is a VS Code extension for generating text using OpenAI's ChatGPT / GPT-3.5 / GPT-4 API. It provides a user interface for inputting messages and receiving responses from the API.
 
 
-![Screenshot](media\OpenAI%20API%20Preview.jpg)
+![Screenshot](media/OpenAI%20API%20Preview.jpg)
 
 
 ## Installation

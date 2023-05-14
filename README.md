@@ -35,3 +35,6 @@ If you encounter any errors while using the extension, they will be displayed in
 To report an issue or provide feedback, please open an issue on the [GitHub repository](https://github.com/vukrosic/OpenAI-API-VS-Code-Feedback)  
 
 My email is vukrosic1@gmail.com and my twitter is [@VukRosic99](https://twitter.com/VukRosic99)
+
+## 📈 Future Plans
+My ultimate goal is to completely reinvent AI interfacing in code editors. I aim to significantly boost productivity. I will continuously refine and expand this extension based on your feedback.

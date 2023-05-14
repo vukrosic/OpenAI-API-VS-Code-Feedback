@@ -1,9 +1,13 @@
 # OpenAI-API-VS-Code-Feedback
 Collecting feedback and bug reports for my OpenAI API VS Code extension.
 
-# VS Code Extension - Ultimate OpenAI API
+# VS Code Extension - OpenAI Chat
 
-This is a VS Code extension for generating text using [OpenAI's ChatGPT / GPT-3.5 / GPT-4 API](https://openai.com/). It provides a user interface for inputting messages and receiving responses from the API.
+This is a VS Code extension for generating text using OpenAI's ChatGPT / GPT-3.5 / GPT-4 API. It provides a user interface for inputting messages and receiving responses from the API.
+
+
+![Screenshot](media\OpenAI%20API%20Preview.jpg)
+
 
 ## Installation
 
@@ -30,8 +34,5 @@ You can edit or delete messages by clicking the corresponding buttons next to ea
 
 ## Troubleshooting
 
-If you encounter any errors while using the extension, they will be displayed in the "Error" textarea at the bottom of the UI. You can also check the VS Code output console (View -> Output) for more detailed error messages.
-
-## License
-
-This extension is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+If you encounter any errors while using the extension, they will be displayed in the "Error" textarea at the bottom of the UI.
+To report an issue or provide feedback, please open an issue on the [GitHub repository](https://github.com/yourusername/yourpublicrepository/issues)

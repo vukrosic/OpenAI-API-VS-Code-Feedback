@@ -3,7 +3,7 @@
 This is a VS Code extension for generating text using OpenAI's ChatGPT / GPT-3.5 / GPT-4 API. It provides a user interface for inputting messages and receiving responses from the API.  
 <br>
 
-![Screenshot](media/Ultimate%20ChatGP.jpg)
+![UltimateChatGPTInterface](media/Ultimate%20ChatGPT.jpg)
 
 <br>
 
